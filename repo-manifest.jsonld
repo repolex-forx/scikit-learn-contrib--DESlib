@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/DESlib/commit/d0eaeec4f60dfc98a306620a258d68fd4d7331ef",
       "git:hexsha": "d0eaeec4f60dfc98a306620a258d68fd4d7331ef",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-learn-contrib/DESlib/commit/ad34bb599b717c394213f58902ceefa9e3918f87",
