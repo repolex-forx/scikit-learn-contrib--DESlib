@@ -1,0 +1,11 @@
+{
+  "org": "scikit-learn-contrib",
+  "repo": "DESlib",
+  "versions": [
+    {
+      "commit": "d0eaeec4f60dfc98a306620a258d68fd4d7331ef",
+      "tag": "",
+      "parsed_at": "2026-10-15T21:35:57.181658+00:00"
+    }
+  ]
+}
